@@ -21,9 +21,7 @@ determin_number <- function(number){
 }
 
 
-for(i in 1:1000){
-  determin_number(i)
-}
+
 
 
 
